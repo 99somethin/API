@@ -1,0 +1,37 @@
+@ApiStudy_HostAddress = https://localhost:7194
+
+GET {{ApiStudy_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+POST {{ApiStudy_HostAddress}}/api/user
+Content-Type: application/json
+
+{
+  //User
+}
+
+###
+
+POST {{ApiStudy_HostAddress}}/api/user
+Content-Type: application/json
+
+{
+  //User
+}
+
+###
+
+POST {{ApiStudy_HostAddress}}/api/user
+Content-Type: application/json
+
+{
+  //User
+}
+
+###
+
+GET {{ApiStudy_HostAddress}}/api/user
+
+###
